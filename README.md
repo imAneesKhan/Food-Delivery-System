@@ -53,7 +53,7 @@ This project is a console-based **Food Delivery System** developed using **C++**
 
 - Imtiaz Ali  
 - Shabbir  
-- Ahmed
+- Anees Ahmed khan
 
 Supervised by: **Sir Shakeel**
 
@@ -61,8 +61,8 @@ Supervised by: **Sir Shakeel**
 
 ## 🔗 Links
 
-- 📁 https://github.com/imtiaz782/food-delivery-system
-- 🔗 https://www.linkedin.com/in/imtiazak782/recent-activity/all/
+- 📁 https://github.com/imAneesKhan/Food-Delivery-System
+- 🔗  
 
 ---
 
