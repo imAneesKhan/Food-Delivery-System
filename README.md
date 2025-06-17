@@ -62,7 +62,7 @@ Supervised by: **Sir Shakeel**
 ## 🔗 Links
 
 - 📁 https://github.com/imAneesKhan/Food-Delivery-System
-- 🔗  
+- 🔗 https://www.linkedin.com/in/anees-ahmad-khan-24453a261/recent-activity/all/
 
 ---
 
